@@ -14,7 +14,7 @@ include 'header.php';
 
     <a class="card" href="proveedores_list.php">
         <span>Proveedores</span>
-        <img src="img/proveedores.png" alt="Proveedores">
+        <img src="img/Proveedores.png" alt="Proveedores">
     </a>
 
     <a class="card" href="pruebas_carrito.php">
