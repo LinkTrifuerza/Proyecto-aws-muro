@@ -274,7 +274,7 @@ Se reinició Apache para aplicar cambios:
 
 sudo systemctl restart httpd
 
-Al final verificamos si funciono accediendo a [http://18.218.123.105,](http://18.218.123.105,) la aplicación
+Al final verificamos si funciono accediendo a [http://18.218.123.105](http://18.218.123.105) la aplicación
 cargó correctamente mostrando la página de login y permitiendo acceso a todos
 los módulos con conectividad a la base de datos funcionando.
 
